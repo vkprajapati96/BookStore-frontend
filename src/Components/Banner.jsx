@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import banner from "../../public/Bannerr.png";
 
 function Banner() {
